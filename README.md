@@ -1,4 +1,4 @@
-# Project Setup Guide
+## Project Setup Guide
 
 This document contains the setup commands for both **Mongoose (MongoDB)** and **Prisma (PostgreSQL/MySQL)** projects using **Node.js + TypeScript**.
 
